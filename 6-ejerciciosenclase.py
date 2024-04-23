@@ -58,4 +58,4 @@ elif opcion == 9:
 else:
         print("Opción no válida")
 
-print("El resultado de la conversión es:", area)
+print("El resultado de la area es:", area)
